@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dani Steely</h1>
 <h3 align="center">An eager junior full-stack developer in Portland, Oregon</h3>
 <div align="center">
-🌱 I’m currently learning C# with .NET and React, Python on the side
+🌱 I’m currently learning JavaScript, C# with .NET, React, and Python
 
 📫 How to reach me: **danisteelyart@gmail.com**
 </div>
