@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dani Steely</h1>
 <h3 align="center">An eager full-stack developer in Portland, Oregon</h3>
 <div align="center">
-🔭 I’m currently working on [TransGuide Reviews]
+🔭 I’m currently working on [TransGuide Reviews][repo]
   
 🌱 I’m currently learning JavaScript, C# with .NET, React, and Python
 
